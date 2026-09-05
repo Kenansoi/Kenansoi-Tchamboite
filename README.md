@@ -17,7 +17,7 @@ Titulaire d'une **Licence en Comptabilité, Contrôle et Audit (Université de L
 
 -  **Master 1 CCA** à l'UCAO-UUT.
 -  Expérience professionnelle en **traitement et saisie des pièces comptables sur Sage Saari 100**, travaux d'inventaire / de fin d'exercice et collecte de données à l'**INSEED**.
--  **Compétences clés** : Sage 100, Sage Paie, Microsoft Excel (Avancé/Intermédiaire), SYSCOHADA Révisé, Déclarations Fiscales & Sociales, Audit Interne.
+-  **Compétences clés** : Sage 100, Sage Paie, Microsoft Excel (Intermédiaire), SYSCOHADA Révisé, Déclarations Fiscales & Sociales, Audit Interne.
 -  **Langues** : Français (Courant), Anglais (Intermédiaire).
 
 ---
@@ -27,8 +27,8 @@ Titulaire d'une **Licence en Comptabilité, Contrôle et Audit (Université de L
 | Domaine | Technologies / Logiciels |
 | :--- | :--- |
 | **Logiciels Comptables** | `Sage 100 Comptabilité` • `Sage Paie` • `Sage Saari` |
-| **Analyse & Bureautique** | `Microsoft Excel (Modélisation & Formules Avancées)` • `Word` • `PowerPoint` |
-| **Réglementation & Normes** | `SYSCOHADA Révisé` • `AUDCIF` • `Droit des Sociétés OHADA` • `Fiscalité Togolaise & UEMOA` |
+| **Analyse & Bureautique** | `Microsoft Excel (Modélisation & Formule intermédiaire)` • `Word` • `PowerPoint` |
+| **Réglementation & Normes** | `SYSCOHADA Révisé` • `AUDCIF` • `Droit des Sociétés OHADA` • `Fiscalité Togolaise` |
 | **Savoir-faire** | Saisie Comptable, Audit Interne, Déclarations Fiscales/Sociales, Collecte & Saisie de Données |
 
 ---
