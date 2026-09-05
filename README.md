@@ -38,29 +38,25 @@ Titulaire d'une **Licence en Comptabilité, Contrôle et Audit (Université de L
 #### 1.  [syscohada-financial-analysis](https://github.com/votre-username/syscohada-financial-analysis)
 > **Description** : Modélisation et analyse financière comparative selon le référentiel **SYSCOHADA Révisé**. Reconstitution du Bilan, Compte de Résultat et Tableau des Flux de Trésorerie (TAFIRE), calcul des ratios de rentabilité et de solvabilité.
 >
->  *Tags : SYSCOHADA Révisé, Analyse Financière, Excel Financial Modeling*
 
 ---
 
 #### 2.  [sage100-accounting-templates](https://github.com/votre-username/sage100-accounting-templates)
 > **Description** : Guide de configuration des modèles de saisie et de gestion des stocks sous **Sage 100 Comptabilité & Sage Paie**. Automatisation du traitement des pièces comptables et génération des états périodiques.
 >
->  *Tags : Sage 100, Sage Paie, Travaux de Fin d'Exercice*
-
+> 
 ---
 
 #### 3.  [ohada-taxation-audit-tools](https://github.com/votre-username/ohada-taxation-audit-tools)
 > **Description** : Questionnaire d'évaluation du contrôle interne et outils de calcul de l'Impôt sur les Sociétés (IS), régimes de fusion (AUDCIF) et contrôle fiscal dans le contexte togolais.
 >
->  *Tags : Audit Interne, Fiscalité OHADA, Droit des Sociétés*
-
+> 
 ---
 
 #### 4.  [strategic-management-bcg-matrix](https://github.com/votre-username/strategic-management-bcg-matrix)
-> **Description** : Analyse stratégique d'un portefeuille d'activités à l'aide de la **Matrice BCG** et étude des mécanismes de gouvernance d'entreprise.
+> **Description** : Analyse stratégique et étude des mécanismes de gouvernance d'entreprise.
 >
->  *Tags : Management Stratégique, Matrice BCG, Corporate Governance*
-
+>  
 ---
 
 ###  Statistiques GitHub
