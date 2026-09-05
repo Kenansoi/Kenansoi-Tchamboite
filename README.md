@@ -1,6 +1,6 @@
 # Kenansoi-Tchamboite
 portfolio comptable
-# 👋 Salut, moi c'est Francie Kenansoi TCHAMBOITE
+#   Kenansoi TCHAMBOITE-portfolio
 
 <p align="left">
   <img src="https://img.shields.io/badge/Statut-Étudiant%20Master%201%20CCA-blue?style=for-the-badge&logo=education" alt="Education"/>
@@ -11,7 +11,7 @@ portfolio comptable
 
 ---
 
-### 👨‍💻 À Propos de Moi
+###  À Propos de Moi
 
 Titulaire d'une **Licence en Comptabilité, Contrôle et Audit (Université de Lomé)** et actuellement en **Master 1 CCA à l'Université Catholique de l'Afrique de l'Ouest (UCAO-UUT)**, je me passionne pour la modélisation financière, l'analyse d'audit interne, le droit comptable OHADA et la fiscalité d'entreprise.
 
